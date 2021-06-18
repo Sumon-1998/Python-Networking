@@ -1,1 +1,1 @@
-# Python-Networking
+# Python TCP network implementation
